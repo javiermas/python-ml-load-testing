@@ -36,7 +36,7 @@ The api is built with FastAPI, and most operations are done via numpy.
 - **High Load**: 500 users, 20 spawn rate, 60s
 - **Stress Test**: 1000 users, 50 spawn rate, 60s
 
-![Requests per second](requests_per_second_over_time.png)
+![Requests per second](analysis/requests_per_second_over_time.png)
 
-![Results](latencies_for_different_tests.png)
+![Results](analysis/latencies_for_different_tests.png)
 
