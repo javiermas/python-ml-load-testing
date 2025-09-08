@@ -40,3 +40,7 @@ The api is built with FastAPI, and most operations are done via numpy.
 
 ![Results](analysis/latencies_for_different_tests.png)
 
+## The blog post
+
+You can find a brief explanation of why I did this, and the results I got in [this blog post](https://javiermas.medium.com/benchmarking-an-ml-service-in-pytho-4238399d2229).
+
